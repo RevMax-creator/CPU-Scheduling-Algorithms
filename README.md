@@ -53,4 +53,4 @@ Follow the instructions in the README.md to execute individual algorithms.
 
 License
 
-This project is licensed. See the LICENSE file for more details.
+This project is licensed. See the [LICENSE](https://github.com/RevMax-creator/CPU-Scheduling-Algorithms/blob/main/LICENSE) file for more details.
